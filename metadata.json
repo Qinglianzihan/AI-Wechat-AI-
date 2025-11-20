@@ -1,0 +1,5 @@
+{
+  "name": "AI WeChat",
+  "description": "A WeChat-like interface where you create AI personas and watch them chat freely in groups using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
